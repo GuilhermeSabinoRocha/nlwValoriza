@@ -23,4 +23,4 @@ app.use((err: Error, request: Request, response: Response) => {
     })
 })
 
-app.listen(3000, () => console.log('runninggfdsg '));
+app.listen(3000, () => console.log('running'));
